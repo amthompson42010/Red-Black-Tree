@@ -1,4 +1,4 @@
-# Red-Black-Tree
+# Red-Black-Tree implemented with a Binary Search Tree
 This is a project I did in my Data Structures and Algorithms Class.
 
 #Description:
